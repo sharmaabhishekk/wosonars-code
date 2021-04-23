@@ -1,2 +1,2 @@
 # wosonars
-Twitter Bot for Sonars
+Twitter Bot for wosonars
